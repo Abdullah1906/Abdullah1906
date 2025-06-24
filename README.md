@@ -10,7 +10,7 @@
 <h1 align="center">𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮</h1>
 <br>
     <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=Joni Miah&color=green"/>
+    <img src="https://komarev.com/ghpvc/?username=Abdullah Hossain &color=green"/>
     </div>
     <hr>
 <div align="center">
@@ -21,7 +21,7 @@
 <div>
 <h2 align="center"> 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮  </h2>
 <li>
- <b>Name:</b> <a href='#' target=_blank>Joni Miah</a></li>
+ <b>Name:</b> <a href='#' target=_blank>Abdullah Hossain</a></li>
   
 <li>
 <b>Gender:</b>Male 🏳️‍⚧️
@@ -73,7 +73,7 @@ I am also very good at ASP.NET Core with javascript/jQuery/Angular. And I am goo
 <p align="center">Here some of my <br>
 most used s-s-sociaw things</p>
 
-<p align="center"> <a href="https://web.facebook.com/abdullah.abir.361755/" target="_blank"><img src="https://img.shields.io/badge/Munshi Faysal-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a> <a href="https://www.linkedin.com/in/abdullah-hossain-a79368295/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Munshi Faysal-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
+<p align="center"> <a href="https://web.facebook.com/abdullah.abir.361755/" target="_blank"><img src="https://img.shields.io/badge/Abdullah Hossain-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a> <a href="https://www.linkedin.com/in/abdullah-hossain-a79368295/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Abdullah Hossain-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
 </div>
 <br>
 <div>
