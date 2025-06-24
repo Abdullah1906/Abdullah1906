@@ -5,10 +5,6 @@
     <div align="center">
   <img src="https://github.com/Abdullah1906.png" width="200" alt="Abdullah Hossain's GitHub Profile Picture" />
 </div>
-
-    <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abdullah1906&color=green" alt="Profile views" />
-</div>
     <hr>
 <div align="center">
 <!-- <a href="https://discord.com/users/202740603790819328" > -->
