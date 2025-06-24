@@ -3,8 +3,8 @@
 <h1 align="center">𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮</h1>
 <br>
     <div align="center">
-   <img src="https://komarev.com/ghpvc/?username=Abdullah1906&color=green" />
-    </div>
+  <img src="https://komarev.com/ghpvc/?username=Abdullah1906&color=green" alt="Profile views" />
+</div>
     <hr>
 <div align="center">
 <!-- <a href="https://discord.com/users/202740603790819328" > -->
