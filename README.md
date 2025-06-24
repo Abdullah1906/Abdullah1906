@@ -3,6 +3,10 @@
 <h1 align="center">𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮</h1>
 <br>
     <div align="center">
+  <img src="https://github.com/Abdullah1906.png" width="200" alt="Abdullah Hossain's GitHub Profile Picture" />
+</div>
+
+    <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Abdullah1906&color=green" alt="Profile views" />
 </div>
     <hr>
