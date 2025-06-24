@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Abdullah1906
-- 👀 I’m interested in C#,Java
-- 🌱 I’m have learned .Net Core MVC
-- 👀 I'm learning .Net core with angular
-- 🌱 Building Project with ASP.Net core with Angular (clean Architecture)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me abdhossain154221@gmail.com
 <body>
   <center>
 <h1 align="center">𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮</h1>
