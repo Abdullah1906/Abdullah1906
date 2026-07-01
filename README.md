@@ -34,7 +34,7 @@ Besides software development, I also enjoy writing technical guides, creating ed
 - Developing enterprise-level business applications
 - Building REST APIs using ASP.NET Core
 - Working with SQL Server databases
-- Developing dynamic UI using JavaScript, jQuery & Angular
+- Developing dynamic UI using JavaScript, jQuery
 - Writing optimized SQL queries and stored procedures
 - Maintaining existing enterprise software
 
