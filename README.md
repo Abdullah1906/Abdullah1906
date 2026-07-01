@@ -23,7 +23,7 @@
 <b>Hobbys:</b> Tech Stuff, Software Development, Explore New
 </li>
 <li>
-<b>Working @:</b> TechStdio
+<b>Working @:</b> QIA
 </li>
 <br><br><br>
 </div>
