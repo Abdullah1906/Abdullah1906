@@ -19,8 +19,7 @@ I enjoy designing clean architectures, developing secure REST APIs, building res
 Besides software development, I also enjoy writing technical guides, creating educational content, and exploring new technologies.
 
 - 💼 Full Stack .NET Developer
-- 🏢 Currently working at **QIA**
-- 🏢 Previously worked at **TechStdio**
+- 🏢 work at **QIA**
 - 🌱 Currently learning Software Architecture & Cloud Technologies
 - 💬 Ask me about ASP.NET Core, MVC, Web API, SQL Server, Angular & JavaScript
 - 📍 Bangladesh
