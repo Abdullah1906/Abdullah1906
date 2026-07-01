@@ -141,17 +141,41 @@ Worked on multiple commercial applications including:
   <img src="https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge"/>
 </p>
 
-## Architecture & Concepts
+## 🧠 Architecture & Engineering Concepts
 
-- MVC Pattern
-- RESTful API
-- Clean Architecture
-- Authentication & Authorization
-- Role Based Authorization
-- Responsive Web Design
-- CRUD Operations
+### 🏗️ Architectural Patterns
+- MVC (Model–View–Controller) Architecture
+- Clean Architecture (Layered / Onion-based approach)
+- Repository Pattern
+- Service Layer Pattern
+
+### 🔐 Security & Authentication
+- Authentication & Authorization Mechanisms
+- Role-Based Access Control (RBAC)
+- JWT-Based Authentication (Token Security)
+
+### 🌐 API & Backend Design
+- RESTful API Design Principles
+- Stateless API Architecture
+- HTTP Methods & Status Code Standards
+- API Versioning (if applicable)
+
+### 🧩 Software Engineering Principles
 - SOLID Principles
-- Object-Oriented Programming
+- Object-Oriented Programming (OOP)
+- Separation of Concerns (SoC)
+- Dependency Injection (DI)
+
+### 🖥️ Web & UI Concepts
+- Responsive Web Design (Mobile-first approach)
+- Progressive UI Development
+- Component-Based Frontend Structure (Angular/jQuery-based where applicable)
+
+### ⚙️ Application Development Practices
+- Modular Application Design
+- Scalable CRUD System Design
+- Maintainable Code Structure
+- Error Handling & Logging Strategy
 
 ---
 
