@@ -132,21 +132,17 @@ Worked on multiple commercial applications including:
 
 # 🛠 Projects
 
-✔ Pharmacy Management System
+✔ Qiss Lab - LIMS
 
-✔ Sales & Invoice Management System
+✔ Pharmacy Management System
 
 ✔ Medicine E-Commerce Platform
 
-✔ Maternal Healthcare Application
+✔ Courier Management System
 
-✔ OEKO-TEX Certification Automation System
+✔ Jui Embrodary System
 
-✔ Doctor Portal
-
-✔ JWT Authentication System
-
-✔ Dynamic Report System
+✔ Dynamic FormBuilder
 
 ✔ POS & Inventory Management
 
