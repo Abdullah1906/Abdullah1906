@@ -58,8 +58,6 @@ Worked on multiple commercial applications including:
 
 # 🚀 Tech Stack
 
-# 🚀 Tech Stack
-
 <h3 align="center">⚙️ Backend</h3>
 
 <p align="center">
@@ -141,7 +139,6 @@ Worked on multiple commercial applications including:
 
 <p align="center">
   <img src="https://img.shields.io/badge/DevExpress-FF7200?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Crystal_Reports-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge"/>
 </p>
 
