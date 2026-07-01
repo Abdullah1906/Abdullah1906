@@ -58,63 +58,92 @@ Worked on multiple commercial applications including:
 
 # 🚀 Tech Stack
 
-## Backend
+# 🚀 Tech Stack
 
-- ASP.NET Core MVC
-- ASP.NET Core Web API
-- C#
-- .NET
-- Entity Framework Core
-- Dapper
-- ADO.NET
-- LINQ
-- REST API
-- JWT Authentication
-- Dependency Injection
-- Repository Pattern
+<h3 align="center">⚙️ Backend</h3>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET_Core_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET_Core_Web_API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+</p>
 
-## Frontend
+<p align="center">
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dapper-00599C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge"/>
+</p>
 
-- HTML5
-- CSS3
-- Bootstrap
-- JavaScript
-- jQuery
-- AJAX
-- Angular
-- TypeScript
-- Handlebars.js
+<p align="center">
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dependency_Injection-512BD4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Repository_Pattern-512BD4?style=for-the-badge"/>
+</p>
 
 ---
 
-## Database
+<h3 align="center">🎨 Frontend</h3>
 
-- Microsoft SQL Server
-- MySQL
-- Stored Procedure
-- Functions
-- Views
-- Triggers
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AJAX-00599C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Handlebars.js-F0772B?style=for-the-badge&logo=handlebarsdotjs&logoColor=white"/>
+</p>
+
+---
+
+<h3 align="center">🗄️ Database</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Stored_Procedures-CC2927?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Functions-4479A1?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Views-512BD4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Triggers-E34F26?style=for-the-badge"/>
+</p>
 
 ---
 
-## Tools & Technologies
+<h3 align="center">🛠️ Tools & Technologies</h3>
 
-- Git
-- GitHub
-- Visual Studio
-- Visual Studio Code
-- Postman
-- IIS
-- npm
-- NuGet
-- DevExpress
-- Crystal Reports
-- SSMS
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IIS-0078D7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DevExpress-FF7200?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Crystal_Reports-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge"/>
+</p>
 
 ## Architecture & Concepts
 
