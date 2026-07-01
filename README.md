@@ -187,11 +187,10 @@ Worked on multiple commercial applications including:
 
 # 📊 GitHub Stats
 
-<p align="center">
-
+ <p align="center">  
   <a href="https://github.com/Abdullah1906"> 
     <img src="https://github-readme-stats.vercel.app/api?username=Abdullah1906&show_icons=true&theme=radical&count_private=true" />
-
+  </a>
 </p>
 
 ---
