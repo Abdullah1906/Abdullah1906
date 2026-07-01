@@ -43,16 +43,13 @@ Besides software development, I also enjoy writing technical guides, creating ed
 ## TechStdio
 **Software Developer (.NET)**
 
-Worked on multiple commercial applications including:
+Contributed to enterprise-level business platforms covering:
 
-- Pharmacy Management System
-- E-Commerce Platform
-- Sales & Inventory Management
-- Invoice & POS System
-- Authentication & Authorization System
-- Dynamic Report Generation
-- Business Automation Software
-
+- Healthcare & Pharmacy management domains
+- E-commerce and transactional systems
+- Inventory, sales, and point-of-sale (POS) systems
+- Secure authentication and authorization frameworks
+- Reporting, analytics, and business automation modules
 ---
 
 # 🚀 Tech Stack
