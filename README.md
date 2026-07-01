@@ -12,7 +12,7 @@ Full Stack .NET Developer | ASP.NET Core | Angular | JavaScript | SQL Server
 
 # 👨‍💻 About Me
 
-I'm a **Full Stack .NET Developer** with **1+ years of professional experience** building scalable web applications using the Microsoft technology stack.
+I'm a **Full Stack .NET Developer** with **1.5+ years of professional experience** building scalable web applications using the Microsoft technology stack.
 
 I enjoy designing clean architectures, developing secure REST APIs, building responsive front-end applications, and solving complex business problems.
 
