@@ -188,9 +188,15 @@ Worked on multiple commercial applications including:
 # 📊 GitHub Stats
 
  <p align="center">  
-  <a href="https://github.com/Abdullah1906"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=Abdullah1906&show_icons=true&theme=radical&count_private=true" />
-  </a>
+<img src="https://github-readme-stats.vercel.app/api?username=Abdullah1906&show_icons=true&theme=radical&count_private=true"/>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah1906&theme=radical"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah1906&layout=compact&theme=radical"/>
 </p>
 
 ---
